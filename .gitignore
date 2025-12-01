@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+venv/
+env/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Large / raw data
+data/*.gz
+data/GSE85112_RAW/
+
+# large raw GEO files
+data/GSE85112_RAW/
+
