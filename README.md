@@ -1,4 +1,4 @@
-# Hema-CellNet-Lite
+# Hema-CellNet
 
 A minimal, Daley-lab–style hematopoietic identity classifier built on public bulk data.
 
